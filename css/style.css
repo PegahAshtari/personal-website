@@ -2,16 +2,22 @@ body {
     font-family: sans-serif;
     background-color: #f9f6f1;
     scroll-behavior: smooth;
+    color: #2b2b2b;
 }
 
-a:hover {
-    color: #fdf3ed;
-    transition: all 1s ease-in-out;
+p {
+    margin-bottom: 0px;
 }
 
 header {
     background: linear-gradient(145deg, #f5ede6, #efe7df);
     font-size: 18px;
+    color: #2b2b2b;
+}
+
+header a:hover {
+    color: #5a5a5a;
+    transition: all 1s ease-in-out;
 }
 
 #firstSection {
@@ -28,21 +34,29 @@ header {
 
 #thirdSection a {
     text-decoration: none;
+    color: #7d6e6e;
+}
+
+#thirdSection a:hover {
     color: #5a5a5a;
+    transition: all 0.5s ease-in-out;
+}
+
+#fourthSection {
+    background-color: #efe7df;
+}
+
+.social-icons {
+    font-size: 30px;
+    color: #7d6e6e;
+}
+
+.social-icons:hover {
+    color: #5a5a5a;
+    transition: all 0.5s ease-in-out;
 }
 
 footer {
     background-color: #eae4df;
     color: #7a7a7a;
 }
-#7d6e6e
-
-#5a5a5a
-
-#d2bba7
-
-#eae4df
-
-#fdf3ed
-
-#c5aa96
