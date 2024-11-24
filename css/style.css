@@ -1,0 +1,48 @@
+body {
+    font-family: sans-serif;
+    background-color: #f9f6f1;
+    scroll-behavior: smooth;
+}
+
+a:hover {
+    color: #fdf3ed;
+    transition: all 1s ease-in-out;
+}
+
+header {
+    background: linear-gradient(145deg, #f5ede6, #efe7df);
+    font-size: 18px;
+}
+
+#firstSection {
+    background-color: #eae4df;
+}
+
+#secondSection {
+    background-color: #fdf3ed;
+}
+
+#thirdSection {
+    background-color: #d2bba7;
+}
+
+#thirdSection a {
+    text-decoration: none;
+    color: #5a5a5a;
+}
+
+footer {
+    background-color: #eae4df;
+    color: #7a7a7a;
+}
+#7d6e6e
+
+#5a5a5a
+
+#d2bba7
+
+#eae4df
+
+#fdf3ed
+
+#c5aa96
